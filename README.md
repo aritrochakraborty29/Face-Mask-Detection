@@ -108,12 +108,12 @@ $ streamlit run app.py
 ## Images
 
 <p align="center">
-  <img src="Readme_images/1.PNG">
+  <img src="https://github.com/chandrikadeb7/Face-Mask-Detection/raw/master/Readme_images/1.PNGG">
 </p>
 <p align="center">Upload Images</p>
 
 <p align="center">
-  <img src="Readme_images/2.PNG">
+  <img src="https://github.com/chandrikadeb7/Face-Mask-Detection/raw/master/Readme_images/2.PNG">
 </p>
 <p align="center">Results</p>
 
